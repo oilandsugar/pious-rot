@@ -1,0 +1,15 @@
+<footer>
+    <div class="align-center">
+        {{- if .Lastmod }}
+            {{- $lastmod := .Lastmod.Format "02 - 01 - 2006" }}
+            <small><em>Last updated on <strong>{{ $lastmod }}</em></small>
+        {{- end }}
+    </div>
+    <div class="socials center-column align-center">
+        <hr/>
+        <a href="https://www.patreon.com/ritualdust/">Patreon</a>
+        <a href="https://www.instagram.com/piousrotrpg/">Instagram</a>
+        <a href="mailto:piousrot@gmail.com">Contact</a>
+    </div>
+</footer>
+</html>
