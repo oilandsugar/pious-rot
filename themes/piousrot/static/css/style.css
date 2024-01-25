@@ -3,7 +3,7 @@ html {
     background-blend-mode: multiply;
     font-family: 'Minipax';
     background-size: cover;
-    font-size:14px;
+    font-size:18px;
     line-height:1.5em;
     color:#2f441a;
     background-color:#d6eeaf;
@@ -131,14 +131,14 @@ input[type=submit]:hover {
 }
 
 .center-column {
-    max-width:400px;
+    max-width:500px;
     margin: 0 auto;
     padding: 0 24px;
 }
 
 .hero-img {
     mix-blend-mode: multiply;
-    max-width:800px;
+    max-width:900px;
     margin-top:-60px;
     margin-bottom:-50px;
     margin-left:auto;

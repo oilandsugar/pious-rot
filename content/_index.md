@@ -5,7 +5,7 @@ lastmod = 2024-01-25
 +++
 
 <div class="hero-img">
-    <img src="./img/broch.jpg"/>
+    <img src="/img/broch.jpg"/>
 </div>
 <div class="center-column">
 
@@ -32,12 +32,12 @@ We’ve based much of our inspiration on bronze era European civilizations and l
 
 <div class="team hidden">
     <div class="person">
-        <img src="./img/liz.jpg"/>
+        <img src="/img/liz.jpg"/>
         <span class="accent-font">Sedge</span>
         <small>Writer, world-builder & huran root harvester</small>
     </div>
     <div class="person">
-        <img src="./img/liz.jpg"/>
+        <img src="/img/liz.jpg"/>
         <span class="accent-font">Lizbeth</span>
         <small>Illustrator, cartographer and symbol carver</small>
     </div>
