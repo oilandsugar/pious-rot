@@ -2,8 +2,9 @@ baseURL = "https://piousrot.com/"
 languageCode = "en-ca"
 theme = "piousrot"
 title = "Pious Rot"
+
 [params]
-image = "/img/preview.png"
+image = "/img/social-img.jpg"
 desc = "Pious Rot is a setting guide for fantasy roleplay steeped in folk traditions and the common folks strife against uncaring gods"
 author = "Lizbeth Poirier"
 
