@@ -8,7 +8,7 @@
         <li><a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ $parentPage := .Page }}
         <ul>
-            {{ range .Site.Pages }}
+            {{ range (where .Site.Pages "Section" "life" }}
             {{ .Title }}
             {{ end }}
             {{ range (where .Site.Pages "Section" (index (split .Path "/") 0)) }}
