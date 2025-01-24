@@ -11,7 +11,7 @@
             {{ range (where .Site.Pages "Section" $parentPage.Slug ) }}
             {{ if and (.IsSection) (ne .Page $parentPage) }}
             <li>
-                <details {{ if eq $currentSection (index (split .Path "/") 1) }}open{{ end }}>
+                <details {{ if eq $currentSection $parentPage.Slug }}open{{ end }}>
                     <summary><a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Params.subtitle }}</a></summary>
                     {{ $parent := .Page }}
                     <ul>
