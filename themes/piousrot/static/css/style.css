@@ -1,8 +1,10 @@
 /* TODO:
 
+- [] fix auto open menu sections
 - [] add all north writing
 - [] add a way to access content from home page
 
+- [x] add footer newsletter form
 - [x] mobile styling
 - [x] add storybook font
 - [x] add gaelic font
@@ -38,7 +40,7 @@
 
     --b_high: #000000; /* b_high */
     --b_med: #efdebd; /* b_med */
-    --b_low: #352b26; /* b_low */
+    --b_low: #f2ece9; /* b_low */
     --b_inv: #9b3313; /* b_inv */
 
     --frame_op: 0.8;
@@ -544,22 +546,24 @@ input {
 
 input[type=email] {
     border: 2px solid var(--f_med);
+    border-radius:4px;
     background: none;
     padding: 4px;
 }
 
 input[type=submit] {
     font-weight: bold;
-    border: 2px solid;
-    color:inherit;
+    color:var(--f_med);
+    border: 2px solid var(--f_med);
     padding:4px 8px;
+    border-radius:4px;
     background: none;
     cursor:pointer;
 }
 
 input[type=submit]:hover {
-    border:2px inset;
-    background: var(--f_high);
+    border-color: var(--f_high);
+    color: var(--f_high);
 }
 
 .hero-img {
@@ -574,6 +578,10 @@ input[type=submit]:hover {
     border: 4px double var(--f_low);
     padding: 24px;
     text-align:center;
+}
+
+.home .footer-newsletter {
+    display:none;
 }
 
 .team {
@@ -666,6 +674,7 @@ footer a {
 
 table {
     border-collapse: collapse;
+    mix-blend-mode: multiply;
 }
 
 thead {
@@ -676,11 +685,20 @@ tbody {
 
 }
 
+
+tbody tr:nth-child(odd) {
+  background-color: var(--b_low);
+}
+
 td, th {
-    border-bottom:1px solid;
-    border-right:1px solid;
+    border-bottom:1px solid var(--f_med);
+    border-right:1px solid var(--f_med);
     text-align:left;
     padding: var(--spacing_sm);
+}
+
+th {
+    border-bottom: 2px solid var(--f_med);
 }
 
 td:last-child, th:last-child {
@@ -811,9 +829,6 @@ td:last-child, th:last-child {
     .mobile {
         display:none;
     }
-    main, footer {
-        padding-top: var(--spacing_xl);
-    }
     #home-img {
         height: 24rem;
     }
@@ -856,6 +871,9 @@ td:last-child, th:last-child {
     }
     footer {
         padding:0 calc(200px + 5vw);
+    }
+    main, footer {
+        padding-top: var(--spacing_xl);
     }
     .hero-img {
         margin-top:-60px;

@@ -1,9 +1,19 @@
 <footer>
-    <div class="align-center">
-        {{- if .Lastmod }}
-            {{- $lastmod := .Lastmod.Format "02 - 01 - 2006" }}
-            <small><em>Last updated on <strong>{{ $lastmod }}</em></small>
-        {{- end }}
+    <div class="footer-newsletter">
+        <div class="center"><hr/></div>
+        <div class="align-center large-margin-bottom large-margin-top">
+            <form
+                  action="https://buttondown.email/api/emails/embed-subscribe/piousrot"
+                  method="post"
+                  target="popupwindow"
+                  onsubmit="window.open('https://buttondown.email/piousrot', 'popupwindow')"
+                  class="embeddable-buttondown-form"
+                  >
+                <label for="bd-email" class="gael">Join the newsletter:</label>
+                <input type="email" name="email" id="bd-email" placeholder="email address" />
+                <input type="submit" value="Subscribe" /> 
+            </form>
+        </div>
     </div>
     <div class="socials center-column align-center">
         <div class="center"><hr/></div>
