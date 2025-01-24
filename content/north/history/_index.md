@@ -1,6 +1,7 @@
 +++
 title = 'Lore and History'
 subtitle = 'Lore and History'
+slug = "history"
 date = 2025-01-09
 draft = false
 weight = 1

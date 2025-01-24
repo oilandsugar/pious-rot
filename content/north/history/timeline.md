@@ -1,6 +1,7 @@
 +++
 title = 'A timeline of significant events in the North'
 subtitle = 'Timeline of events'
+slug = "timeline"
 date = 2025-01-09
 draft = false
 weight = 2

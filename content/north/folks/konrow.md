@@ -1,6 +1,7 @@
 +++
 title = 'Konrow'
 subtitle = 'Konrow'
+slug = "konrow"
 characterTitle = "The living stave"
 date = 2025-01-09
 draft = false

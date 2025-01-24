@@ -1,6 +1,7 @@
 +++
 title = 'Hondle Pass'
 subtitle = 'Hondle Pass'
+slug = "hondle-pass"
 date = 2025-01-23
 draft = false
 +++

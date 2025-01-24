@@ -1,6 +1,7 @@
 +++
 title = 'Skyfire Sloth (Ronrath Kobal)'
 subtitle = 'Skyfire Sloth'
+slug = "skyfire-sloth"
 date = 2025-01-09
 draft = false
 weight = 2

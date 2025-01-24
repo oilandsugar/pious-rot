@@ -1,6 +1,7 @@
 +++
 title = 'Cliffs of the Kraken'
 subtitle = 'Cliffs of the Kraken'
+slug = "cliffs-of-the-kraken"
 date = 2023-01-01
 draft = false
 +++

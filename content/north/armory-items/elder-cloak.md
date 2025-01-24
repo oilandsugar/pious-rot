@@ -1,6 +1,7 @@
 +++
 title = 'The Elder’s Cloak'
 subtitle = 'Elder’s Cloak'
+slug = "elder-cloak"
 date = 2025-01-09
 draft = false
 weight = 6

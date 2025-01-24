@@ -1,6 +1,7 @@
 +++
 title = 'Sovereign Eel'
 subtitle = 'Sovereign Eel'
+slug = "soereign-eel"
 date = 2025-01-09
 draft = false
 weight = 1

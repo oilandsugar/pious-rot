@@ -1,6 +1,7 @@
 +++
 title = 'The Ragged Grasp (of Loran-keth)'
 subtitle = 'Ragged Grasp'
+slug = "ragged-grasp"
 date = 2025-01-09
 draft = false
 weight = 1

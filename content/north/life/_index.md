@@ -1,6 +1,7 @@
 +++
 title = 'Between Mountains and Waves'
 subtitle = "Life in the North"
+slug = "life"
 date = 2024-01-01
 draft = false
 weight = 2

@@ -1,6 +1,7 @@
 +++
 title = 'Half-fin'
 subtitle = 'Half-fin'
+slug = "half-fin"
 characterTitle = "Wandering fisher from Totindell"
 date = 2025-01-09
 draft = false

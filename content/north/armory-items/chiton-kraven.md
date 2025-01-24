@@ -1,6 +1,7 @@
 +++
 title = 'The Chiton of the Craven'
 subtitle = 'Chiton of the Craven'
+slug = "chiton-craven"
 date = 2025-01-09
 draft = false
 weight = 4

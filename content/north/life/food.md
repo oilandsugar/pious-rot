@@ -1,6 +1,7 @@
 +++
 title = 'Gathered fruits and Prepared Victuals'
 subtitle = "Food of the North"
+slug = "food"
 date = 2024-01-01
 draft = false
 weight = 2

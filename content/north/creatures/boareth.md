@@ -1,6 +1,7 @@
 +++
 title = 'Boareth'
 subtitle = 'Boareth'
+slug = "boareth"
 date = 2025-01-09
 draft = false
 weight = 3

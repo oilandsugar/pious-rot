@@ -1,6 +1,7 @@
 +++
 title = 'The Sunken Ruins of the Placid Palace'
 subtitle = 'Ruins of Placid Palace'
+slug = "ruins-placid-palace"
 date = 2023-01-01
 draft = false
 weight = 3

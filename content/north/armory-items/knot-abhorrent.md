@@ -1,6 +1,7 @@
 +++
 title = 'The Knot of the Abhorrent'
 subtitle = 'Knot of the Abhorrent'
+slug = "knot-abhorrent"
 date = 2025-01-09
 draft = false
 weight = 3

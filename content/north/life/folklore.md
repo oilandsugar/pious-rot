@@ -1,6 +1,7 @@
 +++
 title = 'Folklore and Customs of the Land'
 subtitle = "Folklore of the North"
+slug = "folklore"
 date = 2024-01-01
 draft = false
 weight = 1

@@ -1,6 +1,7 @@
 +++
 title = 'Councils, groups and guilds'
 subtitle = "Factions of the North"
+slug = "factions"
 date = 2025-01-23
 draft = false
 weight = 1

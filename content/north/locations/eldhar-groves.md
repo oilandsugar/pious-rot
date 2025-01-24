@@ -1,6 +1,7 @@
 +++
 title = 'Eldhar Groves'
 subtitle = 'Eldhar Groves'
+slug = "eldhar-groves"
 date = 2023-01-01
 draft = false
 +++

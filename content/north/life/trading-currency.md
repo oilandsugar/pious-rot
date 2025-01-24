@@ -1,6 +1,7 @@
 +++
 title = 'Trading and Currency'
 subtitle = "Trading and Currency"
+slug = "trading-currency"
 date = 2025-01-23
 draft = false
 weight = 5

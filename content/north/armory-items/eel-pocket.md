@@ -1,6 +1,7 @@
 +++
 title = 'Eel Pocket'
 subtitle = 'Eel Pocket'
+slug = "ell-pocket"
 date = 2025-01-09
 draft = false
 weight = 5

@@ -1,6 +1,7 @@
 +++
 title = 'The Town of Godrindell'
 subtitle = 'Godrindell'
+slug = "godrindell"
 date = 2024-12-01
 cover = "/img/locations/godrindell.jpg"
 draft = false

@@ -1,6 +1,7 @@
 +++
 title = 'The Equal Plane'
 subtitle = 'Equal Plane'
+slug = "equal-plane"
 date = 2025-01-09
 draft = false
 weight = 2

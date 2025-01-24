@@ -1,6 +1,7 @@
 +++
 title = 'Wayfarer’s Spark'
 subtitle = 'Wayfarer’s Spark'
+slug = "wayfarer-spark"
 date = 2025-01-09
 draft = false
 weight = 8

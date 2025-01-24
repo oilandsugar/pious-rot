@@ -1,6 +1,7 @@
 +++
 title = 'Landmarks, towns & mysterious places'
 subtitle = 'Locations'
+slug = "locations"
 cover = '/img/locations/north.jpg'
 date = 2023-01-23
 draft = false

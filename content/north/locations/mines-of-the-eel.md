@@ -1,6 +1,7 @@
 +++
 title = 'The Mines of the Eel'
 subtitle = 'Mines of the Eel'
+slug = "mines-of-the-eel"
 date = 2025-01-23
 draft = false
 weight = 2

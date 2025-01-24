@@ -1,6 +1,7 @@
 +++
 title = 'Old Tales and Ancestral Knowledge'
 subtitle = 'Old Tales'
+slug = "old-tales"
 date = 2025-01-09
 draft = false
 weight = 1

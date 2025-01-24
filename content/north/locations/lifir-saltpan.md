@@ -1,6 +1,7 @@
 +++
 title = 'The Lifir Saltpan'
 subtitle = 'Lifir Saltpan'
+slug = "lifir-saltpan"
 date = 2025-01-23
 draft = false
 +++

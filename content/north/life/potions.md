@@ -1,6 +1,7 @@
 +++
 title = 'Salves, ointments and brews'
 subtitle = "Nortern Potion-making"
+slug = "potions"
 cover = "/img/life/potions.jpg"
 date = 2025-01-09
 draft = false
