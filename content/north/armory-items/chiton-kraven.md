@@ -1,8 +1,12 @@
 +++
 title = 'The Chiton of the Craven'
+subtitle = 'Chiton of the Craven'
 date = 2025-01-09
 draft = false
+weight = 4
 +++
+
+<img class="insert" src="/img/items/chiton.jpg"/>
 
 A posthumous name given to the shield of Crab’s shell infused with magic crystals that grew from it that was held by the northerner steward, the Craven Coward. After the harrowing defeat at the Placid Palace the Craven Coward saw no possible victory against the gods and sought to parley with them for Amnesty. This betrayal was revealed and the Craven Coward was confronted on the Cliffs of the Kraken by those he betrayed. He attempted to flee but in his haste he neglected his surroundings and his shield threw him to his death. His name was removed from the histories by the victorious and must only be referred to as the Craven Coward.
 

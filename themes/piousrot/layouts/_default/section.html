@@ -1,21 +1,18 @@
 {{ define "main" }}
 <article class="list-page">
-    <aside>
-        sidebar
-    </aside>
-    <div>
+    {{ partial "sidebar.html" .}}
+    <div class="page-content">
+        {{ with .Params.cover }}
+        <img class="cover" src="{{ . }}"/>
+        {{ end }}
+        {{ with .Params.subtitle }}
+        <div class="subtitle">{{ . }}</div>
+        {{ end }}
         <h1>{{ .Title }}</h1>
+        {{ partial "breadcrumbs.html" .}}
+        {{ .Content }}
         {{ $dateMachine := .Date | time.Format "2006-01-02T15:04:05-07:00" }}
         {{ $dateHuman := .Date | time.Format ":date_long" }}
-        <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time>
-        {{ partial "breadcrumbs.html" .}}
-        
-        {{ .Content }}
-        
-        {{ range .Pages }}
-        <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
-        {{ .Summary }}
-        {{ end }}
     </div>
 </article>
 {{ end }}

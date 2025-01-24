@@ -1,7 +1,9 @@
 +++
 title = 'The Mines of the Eel'
-date = 2023-01-01
+subtitle = 'Mines of the Eel'
+date = 2025-01-23
 draft = false
+weight = 2
 +++
 
 <div class="flavor">

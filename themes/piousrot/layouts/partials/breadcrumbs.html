@@ -8,7 +8,7 @@
         {{- $data.Set "counter" $index }}
         {{- $data.Add "counter" 1 }}
         <a itemprop="item" href="{{.Permalink}}">
-            <span itemprop="name">{{.Title}}</span>
+            <span itemprop="name">{{.Params.subtitle}}</span>
         </a>
         {{- /* pass the counter value into schema attribute */}}
         <meta itemprop="position" content='{{ $data.Get "counter"}}' />
@@ -18,7 +18,7 @@
         {{- /* add 'one' one more time for the last link position */}}
         {{- $data.Add "counter" 1 }}
         <a itemprop="item" href="{{ .Permalink }}">
-            <span itemprop="name">{{.Title}}</span>
+            <span itemprop="name">{{.Params.subtitle}}</span>
         </a>
         {{- /* pass the counter value into schema attribute */}}
         <meta itemprop="position" content='{{ $data.Get "counter"}}' />

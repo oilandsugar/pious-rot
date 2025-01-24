@@ -1,8 +1,12 @@
 +++
 title = 'Wayfarer’s Spark'
+subtitle = 'Wayfarer’s Spark'
 date = 2025-01-09
 draft = false
+weight = 8
 +++
+
+<img class="insert" src="/img/items/wayfarer-spark.jpg"/>
 
 There is a day on the north where the sun peaks but one hour in the day. This time of cold and darkness is when the northerners hold their festival of Renewing Fire. Bonfires are lit throughout the towns and all things tethering one to a past they’d rather be freed of are thrown into the flame, the town rejoicing for the embers of growth that rain in every addition. Sometimes during the festival, though not always, a home will burn from an errand ember or will be burned by its owner. The one whose home burns is chosen as a wayfarer, and must spend the next year in travel of the world, as they were chosen by the fire. The wayfarer is given supplies and materials from the collective townsfolk as well as an ember from their former home, to use in times of great need.
 

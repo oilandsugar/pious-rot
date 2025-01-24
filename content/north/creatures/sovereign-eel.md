@@ -1,16 +1,20 @@
 +++
 title = 'Sovereign Eel'
+subtitle = 'Sovereign Eel'
 date = 2025-01-09
 draft = false
+weight = 1
 +++
 
-The Sovereign Eel is a creature of grand size, as long as two Northerner boats. They have white and grey marbled skin, four eyes inset into fleshy faces and two long whiskers with barbed ends. 
+The Sovereign Eel is a creature of grand size, as long as two Northerner boats. They have white and grey marbled skin, four eyes inset into fleshy faces and two long whiskers with barbed ends.  
 
-The Eel is a solitary hunter, living alone after the larva stage and hunting around a chosen cave or crevasse. They hunt all intelligent creatures in the wild but their main food source is the Iceflow Whale. Using innate mind alerting powers they will dominate prey to come to them.
+The Eel is a solitary hunter, living alone after the larva stage and hunting around a chosen cave or crevasse. They hunt all intelligent creatures in the wild but their main food source is the Iceflow Whale. Using innate mind alerting powers they will dominate prey to come to them.  
 
-Sovereign Eels live in underwater caves and sunken ships, preferring to stay hidden from prey while they dominate their mind. They will not travel past a certain temperature of water and are never seen in the shallows or rivers.
+Sovereign Eels live in underwater caves and sunken ships, preferring to stay hidden from prey while they dominate their mind. They will not travel past a certain temperature of water and are never seen in the shallows or rivers.  
 
-They will attack fishers if provoked but are known to respond well to offerings and difference. They are smart and will run from larger groups of hunters, trying to draw them into splitting up where the eel can deal with them one by one.
+They will attack fishers if provoked but are known to respond well to offerings and difference. They are smart and will run from larger groups of hunters, trying to draw them into splitting up where the eel can deal with them one by one.  
+
+## Stats
 
 (System Agnostic) 
 

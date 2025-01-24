@@ -1,7 +1,10 @@
 +++
 title = 'The Town of Godrindell'
+subtitle = 'Godrindell'
 date = 2024-12-01
+cover = "/img/locations/godrindell.jpg"
 draft = false
+weight = 1
 +++
 
 <div class="flavor">

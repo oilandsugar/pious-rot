@@ -1,12 +1,10 @@
 +++
 title = 'The Sunken Ruins of the Placid Palace'
+subtitle = 'Ruins of Placid Palace'
 date = 2023-01-01
 draft = false
+weight = 3
 +++
-
-<div class="flavor">
-    
-</div>
 
 Symbols hold great meaning in the North and nowhere holds more of a symbolic connection to the reign and fall of the God of the Ravaging Tides than its once awe inducing home. Built on a rock off the shores of the North sea, surrounded by the sholes that allow for a serene water in otherwise turbulent shores. The palace stood on a foundation of bedrock rising from the depths of the sea, with lower passages hewn into the rock to allow servants and beholden to move without disturbing the atmosphere above. For the palace was not a place of governance but instead a den of pleasure and opulence. On every wall hung a tapestry of imported cloth, the floors were lined with beasts furs, large fires maintained by magick continually warmed every room with different salts and oils added for olfactory pleasure or addling one's mind. More than anything there were pillows, to lounge, to pile on others, to fornicate as the God was a creature obsessed with their own sense of bodily comfort.
 

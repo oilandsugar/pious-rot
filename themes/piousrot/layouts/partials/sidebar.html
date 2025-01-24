@@ -1,0 +1,34 @@
+{{ $currentSection := (index (split .Path "/") 1)}}
+{{ $currentPage := .Page }}
+<aside>
+    <div class="gael accent medium-margin-bottom">Table of contents</div>
+    <ul class="side-menu">
+        <li><a href="/">Home</a></li>
+        {{ range .Site.Sections }}
+        <li><a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a></li>
+        {{ $parentPage := .Page }}
+        <ul>
+            {{ range (where .Site.Pages "Section" (index (split .Path "/") 0)) }}
+            {{ if and (.IsSection) (ne .Page $parentPage) }}
+            <li>
+                <details {{ if eq $currentSection (index (split .Path "/") 1) }}open{{ end }}>
+                    <summary><a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Params.subtitle }}</a></summary>
+                    {{ $parent := .Page }}
+                    <ul>
+                        {{ range .Site.Pages }}
+                        {{ if eq .Parent $parent }}
+                        <li>
+                            <a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Params.subtitle }}</a>
+                        </li>
+                        {{ end }}
+                        {{ end }}
+                    </ul>
+                </details>
+            </li>
+            {{ end }}
+            {{ end }}
+        </ul>
+
+        {{ end }}
+    </ul>
+</aside>

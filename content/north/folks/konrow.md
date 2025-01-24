@@ -1,8 +1,10 @@
 +++
 title = 'Konrow'
-subtitle = "The living stave"
+subtitle = 'Konrow'
+characterTitle = "The living stave"
 date = 2025-01-09
 draft = false
+weight = 3
 +++
 
 Many ghosts haunt the former battlefields as well as the minds of the people of the north but none are as welcome as Konrow. An old curved horned folk of a dark bluish tones and a long braided beard sporting many a wooden charm,  Their arrival is always heralded by the soft chiming of wood staves hitting each other, as they have covered their horns, chest, arms and belt with over a hundred Fahtotems. 

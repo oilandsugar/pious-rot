@@ -1,7 +1,9 @@
 +++
 title = 'Old Tales and Ancestral Knowledge'
+subtitle = 'Old Tales'
 date = 2025-01-09
 draft = false
+weight = 1
 +++
 
 In the North a person is not judged by where they come from or the path they walked, only how they carry themselves once there. It’s a land of those who need to escape, who need to forget or be forgotten. What connects the culture however are two major pillars; Elders are to be listened to, for any that reach a long age has learned from their share of mistakes, and superstitions and legends tell of truth and should guide one’s actions. 
@@ -10,52 +12,17 @@ Many tales merge the two tenants, of a ware elder being right but unheeded by a 
 
 ## A written, and abridged, version of the tale of the North’s founding
 
-“It is easy to forget many things,
-Such as the land that sits across the sea.
-This land was one of sacristy and war,
-So much killing for so few riches.
-The war was to see all die, 
-it was endless and killed any before they grew old enough to question it.
-Yet one did, she was clever, 
-she was shrewd, 
-and she lived to the blessed age of 60 years in this cursed land.
-She was the one to see how truly pointless the war was, she saw the slow painful bleed leading to death.
-So she gathered, rallied, took supplies and warriors and set not to the battlefield but to the sea. 
-Many thought her a fool, 
-Wishing to escape death by going to the place death was assured. 
-They set off on three large ships, out to the horizon’s unwavering edge.
-Weeks past with nothing more than water, the winds uncaring, the course unclear.
-So when a rocky mass appeared in the distance the sailors rejoiced!
-They had quested but there was land. 
-However it was barren and harsh, save for a low moss.
-The Elder knew this was not a home and told them to continue past. 
-The young captain of a ship refused, 
-he barked and he snapped, 
-and rallied his ship and a few sailors to stay. 
-As the two remaining ships departed they could already hear the sailors fight over who got the pitiful amount of moss.
-The ships then continued,
-Days,
-Weeks,
-Months,
-Through frozen waters that eventually gave to impenetrable ice.
-The sailors grew in despair, 
-they journeyed so far for a frozen waste.
-Yet, 
-the Elder knew, 
-for she saw birds flying from the ice in the opposite direction they came. 
-So she ordered the ships pulled from the water and dragged on the ice. 
-The sailors groaned, 
-hissed, 
-And one of the ships turned back.
-So with a crew and one boat they pulled the boat across the ice only a day away, 
-the ice stopped, 
-the sea opened,
-and in the distance a shimmer ghost of a mountain in the far horizon.
-That mountain was the North,
-and on its shores the Elder found the first city.”
+“It is easy to forget many things, such as the land that sits across the sea. This land was one of sacristy and war, so much killing for so few riches. The war was to see all die, it was endless and killed any before they grew old enough to question it. Yet one did, she was clever, she was shrewd, and she lived to the blessed age of 60 years in this cursed land.
+She was the one to see how truly pointless the war was, she saw the slow painful bleed leading to death. So she gathered, rallied, took supplies and warriors and set not to the battlefield but to the sea. Many thought her a fool, wishing to escape death by going to the place death was assured. They set off on three large ships, out to the horizon’s unwavering edge.
+Weeks past with nothing more than water, the winds uncaring, the course unclear. So when a rocky mass appeared in the distance the sailors rejoiced! They had quested but there was land. However it was barren and harsh, save for a low moss. The Elder knew this was not a home and told them to continue past. The young captain of a ship refused, he barked and he snapped, and rallied his ship and a few sailors to stay. As the two remaining ships departed they could already hear the sailors fight over who got the pitiful amount of moss.
+The ships then continued, days, weeks, months, through frozen waters that eventually gave to impenetrable ice. The sailors grew in despair, they journeyed so far for a frozen waste. Yet, the Elder knew, for she saw birds flying from the ice in the opposite direction they came. So she ordered the ships pulled from the water and dragged on the ice. 
+The sailors groaned, hissed, and one of the ships turned back. So with a crew and one boat they pulled the boat across the ice only a day away, the ice stopped, the sea opened, and in the distance a shimmer ghost of a mountain in the far horizon. That mountain was the North, and on its shores the Elder found the first city.”
+
 This is one of many telling of the founding of the north. They are unique in their telling of a land beyond the ice, no one has been able to confirm it’s existence or travel beyond the frozen wastes. The ship that stayed on the rock are sometimes attributed as the ancestors of the horned folk, saying they grew aspects like rams, living in a rocky land with only moss to eat. 
 
-## Next is a sailors tale, edited for etiquette
+---
+
+## A sailor cautionary tale, edited for etiquette.
 
 “Once there was a sailor, Konkord-Ith was his name, a crusted old sailer, with salt in every crease and crack.
 The man set out on an old but trusted dingy, nothing you’d be proud of but you wouldn’t worry about your life neither, pushed off into the water at the first crack of morning light.

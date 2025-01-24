@@ -1,8 +1,10 @@
 +++
 title = 'Half-fin'
-subtitle = "Wandering fisher from Totindell"
+subtitle = 'Half-fin'
+characterTitle = "Wandering fisher from Totindell"
 date = 2025-01-09
 draft = false
+weight = 2
 +++
 
 Jolla Half-fin, a 39-year-old fisher from Totindell, grew up in the northern lands with her father and sister after losing her mother and brothers to the rebellion. During the festival of Renewing Fire she was chosen by the flames to journey for one year and she gladed accepted her fate

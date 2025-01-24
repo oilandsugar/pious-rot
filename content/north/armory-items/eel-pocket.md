@@ -1,8 +1,12 @@
 +++
 title = 'Eel Pocket'
+subtitle = 'Eel Pocket'
 date = 2025-01-09
 draft = false
+weight = 5
 +++
+
+<img class="insert" src="/img/items/eel-pocket.jpg"/>
 
 In the cold north, under the reign of the usurper god, all items of softness and warmth were to be given to the god directly, to use at its pleasure. This imposed shortage of materials did not break the will or the ingenuity of the people of the north, it just made them stronger as they made clothes of seal’s skin and leathers of sea plants. One such item that was common to the people of the north but unheard of elsewhere was an Eel Pocket. Made from woven pieces of dried seaweed and Eels said to hunt with the use of magic, these pouches had the ability to swim or slither to a destination without the need of being carried. They are said to only follow the will of those who carve their name in the strip of Eel smeared with heart’s blood, if this is truth or a lie said to dissuade thieves is unknown but the pockets are rarely seen in the hands or belts of brigades.
 

@@ -1,8 +1,12 @@
 +++
 title = 'The Knot of the Abhorrent'
+subtitle = 'Knot of the Abhorrent'
 date = 2025-01-09
 draft = false
+weight = 3
 +++
+
+<img class="insert" src="/img/items/knot-abhorrent.jpg"/>
 
 The legend of Beldonis started locally before her name reached the lips of every soul in the north. The cure master of Godrindell was on the whaling party famed for felling a Sovereign Eel, and Beldonis took one of the whiskers of the beast and tied it into her favored tendering flail. Early in the war, when the north looked lost, Beldonis knew no hardship in her skill and the strength of the Knot on her hands. In the end, The Knot of the Abhorrent was the death of the God of the Ravaging Tides, its heart beaten into a fine paste by the Knot.
 
