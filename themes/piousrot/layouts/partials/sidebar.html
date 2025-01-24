@@ -9,10 +9,13 @@
         {{ $parentPage := .Page }}
         <ul>
             {{ range (where .Site.Pages "Section" $parentPage.Slug ) }}
-            {{ if and (.IsSection) (ne .Page $parentPage) }}
+            {{ if ne .Page $parentPage }}
+            {{ if .IsSection }}
             <li>
                 <details {{ if eq $currentSection .Page.Slug }}open{{ end }}>
-                    <summary><a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Params.subtitle }}</a></summary>
+                    <summary>
+                        <a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Params.subtitle }}</a>
+                    </summary>
                     {{ $parent := .Page }}
                     <ul>
                         {{ range .RegularPages }}
@@ -25,8 +28,8 @@
             </li>
             {{ end }}
             {{ end }}
+            {{ end }}
         </ul>
-
         {{ end }}
     </ul>
 </aside>
