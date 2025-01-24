@@ -7,7 +7,6 @@
         {{ range .Site.Sections }}
         <li><a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ $parentPage := .Page }}
-        {{ $parentPage.Slug }}
         <ul>
             {{ range (where .Site.Pages "Section" $parentPage.Slug ) }}
             {{ if and (.IsSection) (ne .Page $parentPage) }}
@@ -15,7 +14,6 @@
                 <details {{ if eq $currentSection (index (split .Path "/") 1) }}open{{ end }}>
                     <summary><a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Params.subtitle }}</a></summary>
                     {{ $parent := .Page }}
-                    {{ $parent.Slug }}
                     <ul>
                         {{ range .RegularPages }}
                         <li>
