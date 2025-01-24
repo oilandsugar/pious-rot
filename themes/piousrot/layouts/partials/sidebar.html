@@ -8,22 +8,16 @@
         <li><a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Title }}</a></li>
         {{ $parentPage := .Page }}
         <ul>
-            {{ range (where $.Site.Pages "Section" "life") }}
-            {{ .Title }}
-            {{ end }}
-            {{ range (where $.Site.Pages "Section" (index (split .Path "/") 0)) }}
-            {{ if and .IsSection }}
+            {{ range (where .Site.Pages "Section" (index (split .Path "/") 0)) }}
+            {{ if and (.IsSection) (ne .Page $parentPage) }}
             <li>
                 <details {{ if eq $currentSection (index (split .Path "/") 1) }}open{{ end }}>
                     <summary><a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Params.subtitle }}</a></summary>
-                    {{ $parent := .Page }}
                     <ul>
-                        {{ range $.Site.Pages }}
-                        {{ if eq .Parent $parent }}
+                        {{ range .RegularPages }}
                         <li>
                             <a class="{{ if eq $currentPage . }}current{{ end }}" href="{{ .Permalink }}">{{ .Params.subtitle }}</a>
                         </li>
-                        {{ end }}
                         {{ end }}
                     </ul>
                 </details>
