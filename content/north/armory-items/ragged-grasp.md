@@ -7,7 +7,7 @@ draft = false
 weight = 1
 +++
 
-<img class="insert" src="/img/items/ragged-grasp.jpg"/>
+<img class="insert right" src="/img/items/ragged-grasp.jpg"/>
 
 Also known as “the Hook that caught a God”, the Ragged Grasp to the unlearned looks nothing much more than a serrated grasp hook. This weapon was used by one of the Determined Few in their battle for liberation. It’s unique not for how it catches its target but how it leaves the target once they are free of its grasp. Loran-Keth was rumoured to polish the hook with the blood of Eels, there’s no method in the ballads of the effect but the metal’s unique tint might be because of this. 
 

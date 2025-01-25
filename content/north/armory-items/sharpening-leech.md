@@ -7,12 +7,14 @@ draft = false
 weight = 7
 +++
 
-<img class="insert" src="/img/items/sharpening-leech.jpg"/>
+<img class="insert right" src="/img/items/sharpening-leech.jpg"/>
 
-In the waters of the cold North there’s a fearsome creature known as a Sovereign Eel. This creature lays longer than 10 men and has the power to control the mind of its prey to make them easier to hunt. The young Sovereign Eel are like a leech who learned to detect when a creature’s mind was not its own and swarm to feed first on  the blood of a captured creature in safety. Many wore a leech behind their ear in battle with the Gods and let the bites save them from subjugation. For the service of their young the Sovereign Eel are no longer hunted, a sacred ally in the north.
+In the waters of the cold North there’s a fearsome creature known as a Sovereign Eel. This creature lays longer than 10 men and has the power to control the mind of its prey to make them easier to hunt. The young Sovereign Eel are like a leech who learned to detect when a creature’s mind was not its own and swarm to feed first on  the blood of a captured creature in safety. Many wore a leech behind their ear in battle with the Gods and let the bites save them from subjugation. For the service of their young the Sovereign Eel are no longer hunted, a sacred ally in the north.  
+
 [[System Agnostic]]
 Shaperning Leech
 The leech helps its host from magic, substances, and powers that seek to infiltrate the mind. When the hosts mind gets muddled by an outside intrusion the leech will clamp onto the and use the pain to alert them.
+
 [[DND]]
 Shaperning Leech
 (Wondrous item)

@@ -1,9 +1,13 @@
 /* TODO:
 
+- [] add stuff on intro page north
 - [] fix auto open menu sections
 - [] add all north writing
+- [] add cairn stats to creatures  
 - [] add a way to access content from home page
 
+- [x] tidy up bestiary
+- [x] add general stuff
 - [x] add footer newsletter form
 - [x] mobile styling
 - [x] add storybook font
@@ -167,6 +171,10 @@ aside h3 {
     color: var(--f_high);
 }
 
+.side-menu li.indent {
+    padding-left: var(--spacing_df);
+}
+
 .side-menu a.current {
     font-weight: bold;
 }
@@ -230,6 +238,13 @@ aside h3 {
 
 .breadcrumbs li:last-child:after {
     display: none;
+}
+
+blockquote {
+    color: var(--f_med);
+    font-style: italic;
+    font-size:1.2rem;
+    max-width:20rem;
 }
 
 /* ---------- inspo: https://www.altaplana.be/en/start ---------- */
@@ -662,12 +677,54 @@ img {
     mix-blend-mode: multiply;
 }
 
+.insert.left {
+    float:none;
+    padding-right:0;
+}
+
+.insert.right {
+    float:none;
+    padding-left:0;
+}
+
 footer a {
     margin: 0 4px;
 }
 
 .hidden {
     display:none;
+}
+
+/* -------- STAT BLOCKS --------- */
+
+fieldset.stats {
+    border:2px solid var(--f_med);
+    padding: var(--spacing_sm) var(--spacing_md) var(--spacing_md) var(--spacing_md);
+}
+
+.stats details summary {
+    cursor: pointer;
+}
+
+fieldset.stats p:first-of-type {
+    margin-top:0;
+}
+
+fieldset.stats details p:last-of-type {
+    margin-bottom:0;
+}
+
+fieldset legend {
+    font-family: 'Fiorchlo GC';
+    text-transform: uppercase;
+    padding: 0 var(--spacing_sm);
+    color:var(--f_med);
+}
+
+.stats details[open] summary {
+    border-bottom:2px dotted var(--f_med);
+    padding-bottom: var(--spacing_sm);
+    margin-bottom: var(--spacing_sm);
 }
 
 /* -------- TABLES --------- */
@@ -687,7 +744,7 @@ tbody {
 
 
 tbody tr:nth-child(odd) {
-  background-color: var(--b_low);
+    background-color: var(--b_low);
 }
 
 td, th {
@@ -857,7 +914,7 @@ td:last-child, th:last-child {
         content: "";
     }
     .insert {
-        max-width:300px;
+        max-width:350px;
     }
     .banner, .banner.pious-rot {
         background-size: 75%;
@@ -905,6 +962,15 @@ td:last-child, th:last-child {
     }
     .left-frame, .right-frame {
         display:block;
+    }
+    .insert.left {
+        float:left;
+        padding-right:var(--spacing_md);
+    }
+
+    .insert.right {
+        float:right;
+        padding-left:var(--spacing_md);
     }
 }
 

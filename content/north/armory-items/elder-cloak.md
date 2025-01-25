@@ -7,7 +7,7 @@ draft = false
 weight = 6
 +++
 
-<img class="insert" src="/img/items/elders-cloak.jpg"/>
+<img class="insert right" src="/img/items/elders-cloak.jpg"/>
 
 After the death of the Dispossessed God the Cold North found peace in its reclamation. The Ravaging Tide’s palace was bedecked with furs and cloth of high quality that the Northerns never knew. They were quickly ripped from the forsaken place into many hands but when the dust settled and the Palace was sunk, it was decided the furs would go to the Eldest among them. A long life of turmoil and grit given care in its waxing days. The coat is held by an elder until passing, then given to the next in line, as has now been tradition for a decade. 
 

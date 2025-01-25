@@ -7,6 +7,8 @@ draft = false
 weight = 2
 +++
 
+<img class="insert right" src="/img/bestiary/sloth.jpg"/>
+
 Standing as tall as a man, Ronrath Kobal are always hunched, walking on knuckles of large a muscular front arms with two long claws and walking in squat back legs. Their mouth is hidden by fur but opens terrifyingly wide when they feel threatened.  
 
 Docile in nature and very slow, the Ronrath   Kobal has been mistaken for boulders in the winter after being covered in snow that has settled on their nearly still forms. Often found in the shallows of stoney beaches, hunting for crabs. They are most active in lightning storms, responding to the bloom of their favourite food, the Thunder Revel.  
@@ -20,46 +22,50 @@ Ronrath Kobals fight one another with a staggering charge, leaving their deadly 
 The creature breaks crab shells with its two large claws on its front legs, these claws also assist with digging for roots in the cold hard dirt of winter. 
 The name Skyfire Sloth is a clumsy translation from the Northern dialect, sloth is the closest translation to the northern word for something that pretends to be inanimate, often used as an insult for the lazy. 
 
-## Stats:
-(System Agnostic)
+### Stats
 
-### Attributes:
+| HP   | ARMOR  | STR   | DEX  | WIL  |
+| ---- | ------ | ----- | ---- | ---- |
+| ??   | ??     | ??    | ??   | ??   |
+
+Attack (dX, special items, qualities)  
+
 The skyfire sloth is one of the strongest creatures in the north, having impressive muscles from a life spent in majority standing and conserving energy for bursts of activity, but otherwise is a lumbering beast. They are not the most intelligent of creatures, but they have a strong sense of their habitat and can use natural landmarks to situation themselves. They are a terrifying sight to behold, with matted fur and ragged claws.
 
-### Hunting Ability:
 The only time a skyfire sloth is truly hunting is when it needs to find or defend its patch of thunder revel. During a time of thunder revel bloom the creature moves at a terrifying speed that it’s never seemingly able to conjure unless somehow tricked into thinking there is a thunderstorm. It uses its large claws to maim any other sloth or creature foolish enough to approach it at this time, attacking in quick succession. When not protecting it’s most lauded food a threatened or angered skyfire sloth is prone to simply falling onto a threat and once pinned down and easy to catch it will begin ripping at it with it’s lower set of clawed feet. 
 
+<details>
+    <summary>D&D stats and special abilities</summary>
 
-(DND)
+Large Beast, Unaligned.  
+Armor Class 14  
+Hit Points 157 (15d12 + 60)  
+Speed 20 ft., climb 20 ft.  
 
-Large Beast, Unaligned.
-Armor Class 14
-Hit Points 157 (15d12 + 60)
-Speed 20 ft., climb 20 ft.
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 23 (+6) | 10 (0)  | 19 (+4) | 5 (-3)  | 12 (+1) | 9 (-1)  |
 
+Saving Throws Str +9  
+Skills Athletics +9, Perception +4  
+Senses Passive Perception 14  
+Damage Resistance Cold  
+Languages --  
+Challenge 7  
+Proficiency Bonus +3  
 
-STR
-DEX
-CON
-INT
-WIS
-CHA
-23 (+6)
-10 (0)
-19 (+4)
-5 (-3)
-12 (+1)
-9 (-1)
+**Thunder Revel**   
+If a thunder or lightning based attack occurs within 30ft of the Skyfire sloth it gains the benefit of the Haste spell for 1 minute.
 
-Saving Throws Str +9
-Skills Athletics +9, Perception +4
-Senses Passive Perception 14
-Damage Resistance Cold
-Languages --
-Challenge 7
-Proficiency Bonus +3
-Thunder Revel If a thunder or lightning based attack occurs within 30ft of the Skyfire sloth it gains the benefit of the Haste spell for 1 minute.
-Actions
-Multiattack. The skyfire sloth makes two claw attacks.
-Claw. Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage. 
-Crush. Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage. If the target is Large or smaller it is knocked prone and is grappled by the skyfire sloth. It may make a DC 13 Strength, Athletics or Dexerity, Acrobatics check on it’s turn to escape. The skyfire sloth also falls prone and must stay prone or end the grapple.
+### Actions  
+
+**Multiattack**   
+The skyfire sloth makes two claw attacks.  
+
+**Claw**   
+Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slashing damage.   
+
+**Crush**  
+Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage. If the target is Large or smaller it is knocked prone and is grappled by the skyfire sloth. It may make a DC 13 Strength, Athletics or Dexerity, Acrobatics check on it’s turn to escape. The skyfire sloth also falls prone and must stay prone or end the grapple.
+
+</details>

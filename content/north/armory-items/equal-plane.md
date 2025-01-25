@@ -7,7 +7,7 @@ draft = false
 weight = 2
 +++
 
-<img class="insert" src="/img/items/equal-plane.jpg"/>
+<img class="insert right" src="/img/items/equal-plane.jpg"/>
 
 The tribe of the northern sea are well known for their quartz tools but the adze of Bron Teareth was unique. Harder than any iron but hollow, filled with water from the days of the ancient elementals, untouched by man or God. The clear blade shines with the bracken of a forgotten and chaotic age. All present attest the retreat at Hondle Pass would have been a massacre if not for the Equal Plane and the heroism of Bron Teareth. One bard wrote in the song ‘Heroes die in Hondle’; “Who would you bet on? God or Shipwright. It was a battle won not with brawn, but by the simple man not giving up the fight”
 

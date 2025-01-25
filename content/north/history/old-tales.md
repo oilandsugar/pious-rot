@@ -21,7 +21,7 @@ The sailors groaned, hissed, and one of the ships turned back. So with a crew an
 
 This is one of many telling of the founding of the north. They are unique in their telling of a land beyond the ice, no one has been able to confirm it’s existence or travel beyond the frozen wastes. The ship that stayed on the rock are sometimes attributed as the ancestors of the horned folk, saying they grew aspects like rams, living in a rocky land with only moss to eat. 
 
----
+<img class="insert" src="/img/life/moon-disc.jpg"/>
 
 ## A sailor cautionary tale, edited for etiquette.
 
