@@ -3,9 +3,10 @@
 - [] add stuff on intro page north
 - [] fix auto open menu sections
 - [] add all north writing
-- [] add cairn stats to creatures  
+- [] add cairn stats to creatures (in process)  
 - [] add a way to access content from home page
 
+- [x] style stat block
 - [x] tidy up bestiary
 - [x] add general stuff
 - [x] add footer newsletter form
@@ -75,6 +76,7 @@ body {
     margin-top: var(--spacing_md);
     margin-bottom: var(--spacing_xl);
     overflow-x: hidden;
+    position:relative;
 }
 
 .home {
@@ -434,6 +436,13 @@ hr {
     font-weight: normal;
 }
 
+.lore {
+    font-size:1.2rem;
+    font-family: 'Fiorchlo GC';
+    font-weight: normal;
+    color:var(--f_med);
+}
+
 
 /* ---------- structure ---------- */
 
@@ -534,11 +543,27 @@ hr {
     height: 400px;
     width:100%;
     position:absolute;
-    top:0;
+    top:-3rem;
     left:0;
     right:0;
     pointer-events: none;
     opacity:var(--frame_op);
+}
+
+.bottom-corners {
+    background-image: url("../img/corners-bottom.gif");
+    mix-blend-mode: multiply;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 400px;
+    width:100%;
+    position:absolute;
+    bottom:-3rem;
+    left:0;
+    right:0;
+    pointer-events: none;
+    opacity:var(--frame_op);
+    background-position: bottom;
 }
 
 .spear {
@@ -719,6 +744,7 @@ fieldset legend {
     text-transform: uppercase;
     padding: 0 var(--spacing_sm);
     color:var(--f_med);
+    cursor: pointer;
 }
 
 .stats details[open] summary {
@@ -726,6 +752,39 @@ fieldset legend {
     padding-bottom: var(--spacing_sm);
     margin-bottom: var(--spacing_sm);
 }
+
+summary::marker {
+    cursor: pointer;
+}
+
+/* -------- TIMELINE --------- */
+
+.timeline ul {
+    padding-left: 2rem;
+    list-style: none;
+    border-left: 2px solid var(--f_med);
+}
+
+.timeline li {
+    position:relative;
+    margin-bottom:var(--spacing_df);
+}
+
+.timeline .date {
+    width:2.5rem;
+    display:inline-block;
+}
+
+.timeline li:before {
+    content: "•—";
+    display:block;
+    width:2rem;
+    position:absolute;
+    left:calc(-2rem - 5px);
+    color: var(--f_med);
+    font-size:1.5rem;
+}
+
 
 /* -------- TABLES --------- */
 
@@ -800,7 +859,7 @@ td:last-child, th:last-child {
         grid-template-columns: 1fr 2fr;
     }
     .columns {
-        column-count: 3;
+        column-count: 2;
     }
     .page-content {
         max-width:50vw;
@@ -931,6 +990,7 @@ td:last-child, th:last-child {
     }
     main, footer {
         padding-top: var(--spacing_xl);
+        padding-bottom: var(--spacing_xl);
     }
     .hero-img {
         margin-top:-60px;

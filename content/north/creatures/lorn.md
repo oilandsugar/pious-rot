@@ -17,7 +17,8 @@ Lorn have become one with the northerns in many ways. They are known to give att
 
 There’s a long told myth in the north that the Lorn were once the ones in the villages of the North, a tribe of peoples who praised the sun but were envious of its power. It is said this tribe made a fell ritual to pull the sun from the sky and control it, but the Sun escaped and punished the tribe by changing them into Lorn. This is why they wish so badly to live near villages and only come out at night. 
 
-### Stats
+<fieldset class="stats">
+    <legend>Stats</legend>
 
 | HP   | ARMOR  | STR   | DEX  | WIL  |
 | ---- | ------ | ----- | ---- | ---- |
@@ -63,5 +64,5 @@ Mimicry. The lorn can mimic the whine of any creature it hears. A creature that 
 Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
 
 </details>
-
+</fieldset>
 

@@ -13,7 +13,7 @@ Most people not living or coming from the North share a belief that the food eat
 
 </div>
 
-<img class="insert" src="/img/life/huran-root.jpg"/>
+<img class="insert right" src="/img/life/huran-root.jpg"/>
 
 ### Huran Root
 
@@ -31,7 +31,7 @@ There’s a variation, Sacred Tae-to, replacing the crab with the marrow of a sk
 
 ---
 
-<img class="insert" src="/img/life/ruck-poppers.jpg"/>
+<img class="insert right" src="/img/life/ruck-poppers.jpg"/>
 
 ### Ruck Poppers 
 

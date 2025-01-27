@@ -14,15 +14,20 @@ There is a day on the north where the sun peaks but one hour in the day. This ti
 <fieldset class="stats">
     <legend>Stats</legend>
 
-**Wayfarer’s Spark**  
+### Wayfarer’s Spark  
+
+**Flame**  
+**Rare item**
 
 The Spark can be placed with intention on a flammable object to create a fire that will continue to grow if not stopped. This fire will burn anything or anyone in its way except for the person who set it.
 
 <details>
     <summary>D&D stats</summary>
 
+### Wayfarer’s Spark  
+
 *(Curious item)*  
-Item Rarity: Rare  
+**Item Rarity:** Rare  
 
 As an action, the Wayfarer’s Spark can be used to light a flammable object, this fire will spread 5ft per round. Any creature other than the one who set the fire will take 1d6 for the first time entering the flame or from starting their turn in the fire, the one who set the fire will receive no damage from it.
 

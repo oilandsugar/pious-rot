@@ -20,7 +20,8 @@ Boareth are hunters and as such they are not scared to kill any hell creature th
 Boarbeth have long memories. It’s well known that if you steal one’s prey or harm it that the Boarbeth will stalk you until it gets its revenge, sometimes waiting years to strike, but strike it shall.
 
 
-### Stats
+<fieldset class="stats">
+    <legend>Stats</legend>
 
 | HP   | ARMOR  | STR   | DEX  | WIL  |
 | ---- | ------ | ----- | ---- | ---- |
@@ -74,6 +75,7 @@ Melee Weapon Attack: +5 to hit, reach 5 ft., one creature.
 Hit: 8 (1d8 + 3) slashing damage
 
 </details>
+</fieldset>
 
 
 

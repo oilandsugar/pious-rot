@@ -7,7 +7,13 @@ draft = false
 weight = 5
 +++
 
+<div class="flavor">
+
 Multiple currencies are used to trade, pay for services or settle disputes in the north. But for most of the smaller mundane purchases, the folks of the north much prefer exchanging goods, time or skills and doing away with money altogether.
+
+</div>
+
+<img class="insert right" src="/img/life/merchant.jpg"/>
 
 ### Mokoon
 
@@ -24,5 +30,3 @@ Small unmarked pewter coins. These are common across most of Thiusland and thus 
 ### Shell (20 shells equals to a kuin)
 
 Small shells collected from the beaches, almost any shell works. These are not worth much but can be useful when playing games, or for keeping track of amounts owed at sea.
-
-<img class="insert" src="/img/life/merchant.jpg"/>

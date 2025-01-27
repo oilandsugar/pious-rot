@@ -17,7 +17,8 @@ Sovereign Eels live in underwater caves and sunken ships, preferring to stay hid
 
 They will attack fishers if provoked but are known to respond well to offerings and difference. They are smart and will run from larger groups of hunters, trying to draw them into splitting up where the eel can deal with them one by one.  
 
-### Stats
+<fieldset class="stats">
+    <legend>Stats</legend>
 
 | HP   | ARMOR  | STR   | DEX  | WIL  |
 | ---- | ------ | ----- | ---- | ---- |
@@ -102,4 +103,5 @@ Physic Chaos (Once Per Day). The sovereign eel may cast Enemies Abound on any nu
 The sovereign eel may choose to teleport to an unoccupied space 60ft from it that it can see and creates an Illusion of itself in its previous space, if it does not teleport than it creates an Illusion in an unoccupied space 60ft from it that it can see. If a creature attacks the illusions they must make an DC 16  intelligence saving throw to see through this illusion.
     
 </details>
+</fieldset>
 

@@ -22,7 +22,8 @@ Ronrath Kobals fight one another with a staggering charge, leaving their deadly 
 The creature breaks crab shells with its two large claws on its front legs, these claws also assist with digging for roots in the cold hard dirt of winter. 
 The name Skyfire Sloth is a clumsy translation from the Northern dialect, sloth is the closest translation to the northern word for something that pretends to be inanimate, often used as an insult for the lazy. 
 
-### Stats
+<fieldset class="stats">
+    <legend>Stats</legend>
 
 | HP   | ARMOR  | STR   | DEX  | WIL  |
 | ---- | ------ | ----- | ---- | ---- |
@@ -69,3 +70,4 @@ Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (3d6 + 4) slash
 Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 22 (3d10 + 6) bludgeoning damage. If the target is Large or smaller it is knocked prone and is grappled by the skyfire sloth. It may make a DC 13 Strength, Athletics or Dexerity, Acrobatics check on it’s turn to escape. The skyfire sloth also falls prone and must stay prone or end the grapple.
 
 </details>
+</fieldset>
