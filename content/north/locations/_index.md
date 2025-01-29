@@ -8,7 +8,13 @@ draft = false
 weight = 3
 +++
 
+<div class="flavor">
+    flavor text here
+</div>
+
 ### Mountain crossing hazards (D20)
+
+<div class="random-table">
 
 | Roll   | Hazard                                                   |
 | ------ | -------------------------------------------------------- |
@@ -33,7 +39,11 @@ weight = 3
 | 19     | the path appears to end here
 | 20     | the only way forward involves climbing a steep cliff
 
+</div>
+
 ### Seafaring hazards (D20)
+
+<div class="random-table">
 
 | Roll   | Hazard                                                   |
 | ------ | -------------------------------------------------------- |
@@ -57,3 +67,5 @@ weight = 3
 | 18     | fatigue and the heavy sun makes the crew hallucinate
 | 19     | most of the provisions are spoiled by seawater
 | 20     | one of the crew falls overboard
+
+</div>

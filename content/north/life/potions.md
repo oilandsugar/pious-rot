@@ -63,7 +63,7 @@ Clears the mind, lowers bias and allows all players who partake in it to underst
 
 ### Firesalt powder
 
-Firesalt collected on the driest day of the year in the Lifir Saltpan and then crushed to a fine powder can be used to conjure small flames and is useful to start campfires. This folk practice does not require much magical knowledge and can be achieved by most. Although in the hands of a powerful folk magician, firesalt powder, especially if mixed with some rare flowers, can become a powerful weapon.
+Firesalt collected on the driest day of the year in the [Lifir Saltpan](/north/locations/lifir-saltpan) and then crushed to a fine powder can be used to conjure small flames and is useful to start campfires. This folk practice does not require much magical knowledge and can be achieved by most. Although in the hands of a powerful folk magician, firesalt powder, especially if mixed with some rare flowers, can become a powerful weapon.
 
 
 **Effect:**  
@@ -86,5 +86,26 @@ Lifeblood distillate is a dark remnant of the god’s magick, it draws its power
 
 **Effect:**  
 Doubles strength and endurance for a day but weakens other party members and reduces the lifespan of the player by 10 years.
+
+</div>
+
+### Table of curses
+
+<div class="random-table">
+
+| D12   | Curse                          |
+| ----- | ------------------------------ |
+| 1     | ??                             |
+| 2     | ??                             |
+| 3     | ??                             |
+| 4     | ??                             |
+| 5     | ??                             |
+| 6     | ??                             |
+| 7     | ??                             |
+| 8     | ??                             |
+| 9     | ??                             |
+| 10    | ??                             |
+| 11    | ??                             |
+| 12    | ??                             |
 
 </div>

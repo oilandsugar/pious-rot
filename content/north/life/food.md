@@ -37,6 +37,17 @@ There’s a variation, Sacred Tae-to, replacing the crab with the marrow of a sk
 
 The sea is a cruel place for many waking creatures but it has been known at times to be kind. One such kindness is the Ruck, a type of sea plant found in the north with branching tendrils adorned with fruit akin to a bead. These Ruck Poppers have a bright and sour note with a lingering sweetness. They are enjoyed in bowls after being streamed with flowers of various breeds and tastes to compliment. 
 
-The most enjoyed accompanying flower is one from the Thunder Revel plant, however this flower only blooms in a storm and oft a patch already claimed by the sky fire sloth. Some brave or stupid do not let that dissuade them, keeping alive the dead god’s motto of “Death for Decadence”.
+The most enjoyed accompanying flower is one from the Thunder Revel plant, however this flower only blooms in a storm and oft a patch already claimed by the [skyfire sloth](/north/creatures/skyfire-sloth). Some brave or stupid do not let that dissuade them, keeping alive the dead god’s motto of “Death for Decadence”.
 
+---
+
+### Chewing water-weed
+
+A tough dark-brown seaweed that tends to float at the surface of still waters, folks at sea will collect some as they pass through a patch and keep it in a small jar filled with seawater. Chewing on this weed is both a way to alleviate boredom during long passages, and a way to deal with the hunger that afflicts unsuccessful fishers. Experienced sailors will also swear that it gives them an unnatural fortitude and determination, especially if harvested during the first days of [Vatur](/north/life/seasons-weather).
+
+---
+
+### Hard fish
+
+The oldest way to preserve fish known to the northerners is drying it on large wooden racks during [Kolrom](/north/life/seasons-weather) when the climate is driest. The resulting *hard fish* as it's called can last for years. The taste and texture are not everyone's favorites and most people cover it with Tae-to-paste, butter or fresh seaweed depending on the season.
 

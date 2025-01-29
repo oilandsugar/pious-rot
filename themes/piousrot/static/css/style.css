@@ -1,10 +1,14 @@
 /* TODO:
 
-- [] add stuff on intro page north
-- [] fix auto open menu sections
-- [] add all north writing
+- [] add more food (in process)
 - [] add cairn stats to creatures (in process)  
+- [] finish seasons page (in process)
+- [] update potions effects cairn
+- [] add stuff on intro page north
+- [] add stuff on life in the north page
+- [] fix auto open menu sections
 - [] add a way to access content from home page
+- [] flip pages of mockup when clicking it on home page
 
 - [x] style stat block
 - [x] tidy up bestiary
@@ -791,6 +795,35 @@ summary::marker {
 table {
     border-collapse: collapse;
     mix-blend-mode: multiply;
+}
+
+.double-width-table table, .full-width-table table, .random-table table  {
+    width:100%;
+}
+
+.random-table table th:first-of-type {
+    width:10%;
+}
+
+.random-table table th:nth-of-type(2) {
+    width:90%;
+}
+
+.double-width-table table th:first-of-type {
+    width:40%;
+}
+
+.double-width-table table th:nth-of-type(2) {
+    width:10%;
+}
+
+.double-width-table table th:nth-of-type(3) {
+    width:40%;
+    border-left:2px solid var(--f_med);
+}
+
+.double-width-table table td:nth-of-type(3) {
+    border-left:2px solid var(--f_med);
 }
 
 thead {

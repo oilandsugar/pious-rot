@@ -18,6 +18,7 @@ After the death of the Dispossessed God the Cold North found peace in its reclam
 
 **Cloak**  
 **Legendary item**  
+**Invaluable**  
 
 When wearing the Elder’s Cloak one feels the stress and pain of the day ease faster than normal and even a short break can feel like a proper rest for weary bones. If one sleeps in the cloak they awake feeling stronger and with greater stamina than otherwise.
 

@@ -9,7 +9,7 @@ weight = 3
 
 <img class="insert right" src="/img/items/knot-abhorrent.jpg"/>
 
-The legend of Beldonis started locally before her name reached the lips of every soul in the north. The cure master of Godrindell was on the whaling party famed for felling a Sovereign Eel, and Beldonis took one of the whiskers of the beast and tied it into her favored tendering flail. Early in the war, when the north looked lost, Beldonis knew no hardship in her skill and the strength of the Knot on her hands. In the end, The Knot of the Abhorrent was the death of the God of the Ravaging Tides, its heart beaten into a fine paste by the Knot.
+The legend of Beldonis started locally before her name reached the lips of every soul in the north. The cure master of Godrindell was on the whaling party famed for felling a [Sovereign Eel](/north/creatures/sovereign-eel), and Beldonis took one of the whiskers of the beast and tied it into her favored tendering flail. Early in the war, when the north looked lost, Beldonis knew no hardship in her skill and the strength of the Knot on her hands. In the end, The Knot of the Abhorrent was the death of the God of the Ravaging Tides, its heart beaten into a fine paste by the Knot.
 
 <fieldset class="stats">
     <legend>Stats</legend>
@@ -17,7 +17,8 @@ The legend of Beldonis started locally before her name reached the lips of every
 ### The Knot of the Abhorrent   
 
 **Flail** (d8 damage)  
-**Legendary item**
+**Legendary item**  
+**Invaluable**  
 
 This flail is a powerful tool of pain that can lash out farther than the simple sword to lay waste to its enemies. The small spikes add to the pain it doles out but the true power is in the heavy knot at its end.
 When a foe is hit with the weapon it can, if the weapon hits skin or a spike pierced armour, cause the part of the body hit to lose its structure and break into a slime-like substance for the time it’s in contact with the knot. The body part regains its structure after the knot’s release.

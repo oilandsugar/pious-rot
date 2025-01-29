@@ -18,6 +18,7 @@ A posthumous name given to the shield of Crab’s shell infused with magic cryst
 
 **Shield** (+2 armor)  
 **Legendary item**  
+**Invaluable**  
 
 This shield is strong and firm, able to protect its wielder from many weapons. It also has the ability to free the wielder from a foe’s advances, when deflecting a hit from a weapon the wielder can travel 15 feet to the left or right magically, helping the wielder potentially escape peril.
 

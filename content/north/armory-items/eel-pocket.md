@@ -18,6 +18,7 @@ In the cold north, under the reign of the usurper god, all items of softness and
 
 **Pouch** (+1 slot)  
 **Rare item**  
+**Price:** 12 kuin    
 
 When receiving this item the recipient must carve its name into it and cover the name with their own blood whilst speaking a word. When the chosen command word is spoken by the one whose name is carved upon it, the pouch is awoken and gains a life-like state, vitality and an ability to move, even swim. The pouch will follow the last given command of its owner until the command is completed. If the command is impossible, the pouch will still attempt until it is broken or given another command. 1 minute After the successful completion of a command, the pouch will return to its owner, always finding the owner regardless of distance.
 

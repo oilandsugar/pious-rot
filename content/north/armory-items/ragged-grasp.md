@@ -17,7 +17,8 @@ Also known as “the Hook that caught a God”, the Ragged Grasp to the unlearne
 ### The Ragged Grasp (of Loran-keth)  
 
 **Hook** (d6 damage)  
-**Legendary item**
+**Legendary item**  
+**Invaluable**  
 
 Is a spiked hook that is either affixed to an arm or a wooden handle, it can hit a foe you are directly facing with ease. The power of the Ragged Grasp isn’t in its broad hit but in the inner spikes.
 Once struck by the hook the foe will be grabbed by the hooks and struggle to get free, but a strong foe would be able to. However, when freeing something from the Ragged Grasp the hooks tear and leave a wound behind.
