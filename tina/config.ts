@@ -11,9 +11,9 @@ export default defineConfig({
   branch,
 
   // Get this from tina.io
-  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
+  clientId: "6ba6b45b-673a-4d18-a51c-46640c14937b",
   // Get this from tina.io
-  token: process.env.TINA_TOKEN,
+  token: "d4c4b6665a00dace2e12b06be7cdd3d9b7b83ffd",
 
   build: {
     outputFolder: "admin",
@@ -29,9 +29,9 @@ export default defineConfig({
   schema: {
     collections: [
       {
-        name: "post",
-        label: "Posts",
-        path: "content/posts",
+        name: "page",
+        label: "Pages",
+        path: "content/",
         fields: [
           {
             type: "string",
@@ -39,6 +39,43 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+          },
+          {
+            type: "image",
+            name: "cover",
+            label: "Cover image",
+          },
+          {
+            type: "string",
+            name: "subtitle",
+            label: "Subtitle",
+          },
+          {
+            type: "string",
+            name: "charactertitle",
+            label: "Character title",
+          },
+          {
+            name: "draft",
+            type: "boolean",
+            label: "Draft",
+            required: true,
+          },
+          {
+            type: 'datetime',
+            name: "date",
+            label: "Date",
+            required: true,
+          },
+          {
+            type: "number",
+            name: "weight",
+            label: "Order",
+          },
+          {
+            type: "string",
+            name: "slug",
+            label: "Slug",
           },
           {
             type: "rich-text",
@@ -49,5 +86,13 @@ export default defineConfig({
         ],
       },
     ],
+  },
+    search: {
+    tina: {
+      indexerToken: '9d546bbf8bfa73287c281ab3907ed22d5cbd1e85',
+      stopwordLanguages: ['eng'],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
   },
 });

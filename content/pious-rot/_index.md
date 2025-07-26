@@ -5,6 +5,7 @@ cover = "/img/locations/sunken-palace-gate.jpg"
 slug = "pious-rot"
 date = 2025-01-23
 draft = false
+weight = 1
 +++
 
 > “The Gods have been killed and cast out of this realm but here still lingers the scars brought upon the land by their cruel rule...”
