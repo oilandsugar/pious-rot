@@ -7,17 +7,23 @@ draft = false
 weight = 4
 +++
 
-### Vatur  
+<div class="flavor">
+    
+The North knows 3 seasons, alternating in a cycle of life, death and rebirth through which both the sun, the land and the sea go through with the assistance of the people.
+
+</div>
+
+### Vatur - Summer  
 (time of the sun)
 
-Starting when the days are felt to grow longer and the darkness recedes back, its beginning is marked by the festival of the sun’s rebirth. 
+Starting when the days are felt to grow longer and the darkness recedes back, it’s beginning is marked by the festival of the sun’s rebirth. Vatur is considered the start of the year and a lot of time and energy is invested in caring for the land, it’s plants, creatures and inhabitants like one would care for a newborn. There is a saying that every act of mending and care done during vatur comes back to you three times over during Kolrom.
 
-### Kolvatur  
+### Kolvatur - Fall  
 (death of the sun)
 
-Kolvatur is a short and intense season marked with storms, rain and dancing lights in the sky. All throughout the season a series of days are dedicated to the funeral rites of the sun, preparing it for it's travel to the otherworld during kolrom.
+Kolvatur is a short and intense season marked with storms, rain and dancing lights in the sky. All throughout the season a series of days are dedicated to the funeral rites of the sun, preparing it for it’s travel to the otherworld during kolrom. This period of the year is when the last fishing trips are held and folks are particularly obervant of their rites to appease mo-koon since it is believed that every slip can affect the success of the fishing and the well-being of the whole community a a result.
 
-### Kolrom  
+### Kolrom - Winter  
 (time of the darkness)
 
 Kolrom starts when all the hibernating animals are asleep. The welcoming of darkness festival is held during the first nights of the season and is followed by two other celebrations: the festival of the still sea when the sea freezes over and the festival of renewing fire on the darkest day. Days are much shorter during that season and the festivals are a way to keep hope in the darkness by staying connected to the land and the phases of its slumber.

@@ -51,3 +51,9 @@ A tough dark-brown seaweed that tends to float at the surface of still waters, f
 
 The oldest way to preserve fish known to the northerners is drying it on large wooden racks during [Kolrom](/north/life/seasons-weather) when the climate is driest. The resulting *hard fish* as it's called can last for years. The taste and texture are not everyone's favorites and most people cover it with Tae-to-paste, butter or fresh seaweed depending on the season.
 
+---
+
+### Wild Yellow Garlic
+
+A small and delicate plant that grows only one every 3 years in forested undergrowth. It has a strong taste and is sometimes used to flavor meals but the main reason it is sought after is because it gives the person who consumes it a superior vision in the dark for a wake. The best foraging areas for wild yellow garlic are well-kept secrets even to this day.
+
