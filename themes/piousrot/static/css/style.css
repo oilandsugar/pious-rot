@@ -556,7 +556,7 @@ hr {
     height: 400px;
     width:100%;
     position:absolute;
-    top:-3rem;
+    top:-1.5rem;
     left:0;
     right:0;
     pointer-events: none;
@@ -697,7 +697,7 @@ input[type=submit]:hover {
     text-align: center;
     margin:0 auto;
     position: absolute;
-    top:-40px;
+    top:-20px;
     left:50%;
     margin-left:-50px;
 }
@@ -735,6 +735,10 @@ footer a {
 
 .hidden {
     display:none;
+}
+
+.page-content {
+    padding-top:48px;
 }
 
 /* -------- STAT BLOCKS --------- */
@@ -898,6 +902,7 @@ td:last-child, th:last-child {
     .logo {
         max-width:150px;
         margin-left:-75px;
+        top:-40px;
     }
     .list-page {
         display:grid;
@@ -1078,6 +1083,9 @@ td:last-child, th:last-child {
     .insert.right {
         float:right;
         padding-left:var(--spacing_md);
+    }
+    .corners {
+         top:-3rem;
     }
 }
 
