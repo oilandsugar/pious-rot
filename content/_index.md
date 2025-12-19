@@ -7,13 +7,10 @@ lastmod = 2024-01-25
 <div class="hero-img">
     <img src="/img/locations/godrindell.jpg"/>
 </div>
-<div class="center-column">
     <h2 class="large-margin-top accent">A system-agnostic world setting for fantasy roleplay steeped in folk traditions and the common folks strife against uncaring gods</h2>
 
 Welcome to the setting of Pious Rot, a world of morally bankrupt gods and heroics from the everyday person. This book is intended to give you culture, history and questlines to your roleplaying games. It is the first of many books that will build out a unique setting, we also highly support porting the locations and into your own worlds and building upon them. 
 We’ve based much of our inspiration on bronze era European civilizations and lost folk traditions of Europe, the setting deals with cultural strife, subjugation and deicide.
-
-</div>
 
 <div class="large-wrapper">
     <div class="left-frame"><img src="/img/side-frame-left.jpg"/></div>
@@ -53,30 +50,6 @@ We’ve based much of our inspiration on bronze era European civilizations and l
     </div>
 </div>
 
-<div class="spacer"></div>
-
-<div class="large-wrapper">
-    <div class="spear large-padding-bottom"><img src="/img/spear.jpg"/></div>
-</div>
-
-<div class="center-column">
-    <div class="newsletter">
-        <h3 class="medium-margin-bottom">Get notified of releases</h3>
-        <form
-              action="https://buttondown.email/api/emails/embed-subscribe/piousrot"
-              method="post"
-              target="popupwindow"
-              onsubmit="window.open('https://buttondown.email/piousrot', 'popupwindow')"
-              class="embeddable-buttondown-form"
-              >
-            <label for="bd-email">Email:</label>
-            <input type="email" name="email" id="bd-email" />
-            <input type="submit" value="Subscribe" /> 
-        </form>
-        <div class="details"><small><em>Expect occasional updates and<br/> module release announcements.</em></small></div>
-    </div>
-
-<div class="spacer"></div>
 <h2 class="large-margin-bottom">The Pious Rot Team</h2>
 <div class="team">
     <div class="person left">
@@ -93,5 +66,4 @@ We’ve based much of our inspiration on bronze era European civilizations and l
             Illustrator, cartographer and symbol carver
         </div>
     </div>
-</div>
 </div>

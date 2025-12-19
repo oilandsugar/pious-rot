@@ -4,7 +4,7 @@ subtitle = 'Lost Gardener’s Sickle'
 slug = "lost-gardener-sickle"
 date = 2025-12-19
 draft = false
-weight = 4
+weight = 1
 +++
 
 From the hands of a simple Gardener came one of the most impactful artifacts of the Scorching fields. Its crescent flat headed curve like that of a large bladed cane was ideal for harvesting but was also notably devastating to the ankles of those who dared to face it. Its greatest strength came from the magic of the original wielder whose hand is still fused to the shaft, infused there on the fateful last day of the wielder.
@@ -14,7 +14,7 @@ From the hands of a simple Gardener came one of the most impactful artifacts of 
     
 ### The Lost Gardener’s Sickle  
 
-**Melee Weapon** (magic, sickle)  
+**Melee Weapon** (Magic, Sickle)  
 **Legendary item**  
 **Invaluable**  
 

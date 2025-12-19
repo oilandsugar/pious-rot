@@ -8,9 +8,6 @@ draft = false
 weight = 3
 +++
 
-<div class="flavor">
-    flavor text here
-</div>
 
 ### Mountain crossing hazards (D20)
 

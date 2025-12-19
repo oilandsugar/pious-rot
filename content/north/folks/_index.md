@@ -9,35 +9,9 @@ weight = 4
 
 ## Councils, groups and guilds
 
-<div class="columns">
-
-### The Council of Godrindell
-
-Sitting council members are the elder of the cure masters, the elder of the boatswain, the lead arborist and two of the renewed.  
-
-(Clothing item to denote elders and symbol for ???)
-
-### The Council of Kwandell
-
-Sitting council members are the elder of the fishers, the captain of the keepers of bluewater, the elder of toolcraft, and one of the renewed.  
-
-(Clothing item to denote elders and symbol for keepers of Bluewater)
-
-### The Council of Terredell
-
-Sitting council members are the elder of masonry, the oldest hunter, First of the Snowmarch, the towersmith, and three of the renewed.  
-
-(Clothing item to denote elders and symbol for Snowmarch)
-
-### The Guilds of Hologall
-
-The only settlement in the north that is led by the craftspeople who control governance and trade, the head of the stone carver guild, the head of the woodworking guild, the head of the merchants guild and the head of the silversmiths guild.  
-
-(Symbols for the guilds)
-
 ### The Bitter End
 
-A volunteer organization of defenders sworn to protect the folks of the North in the event of invasion from the south or natural disaster. Known for their dark clothing and somewhat somber demeanor.  
+A volunteer organization of defenders sworn to protect the folks of the North in the event of invasion from the south or natural disaster. Known for their dark clothing and somewhat somber demeanor.
 
 ### Keepers of Bluewater
 
@@ -47,4 +21,8 @@ A group dedicated to keeping sailors and shores safe and regaining the North’s
 
 A loose affiliate dedicated to keeping the roads of the North clear and safe, welcome at any caravan fire or stube in the north, they always travel with more provisions than they need and sing the best drinking songs. 
 
-</div>
+### The Bowfish  
+
+When the God of Ravaging Tides stood at the rock that would become the Placide Palace and proclaimed the new nation of the North the northerners stood watch, the eels swam in the deep water and from the shallows rose the Bowfish. 
+A bipedal fish who carry harpoons of rock and drift wood, bullwhips of kelp and adornments of shiny shells. They had until then lived on the eastern edge of the Fatlohn valley, on the rivers edge their nests sprawl, covered by wrecked ships they dredge from the water. The bowfish not only lay eggs on the muddy shore but also hibernate there in the coldest months.
+From the day the God appeared, The Bowfish stood in the shores and let out a droning praise to the God. From that day they kept by the base of the Placid Palace and the shores of fountain well, keeping to themselves, harvesting the clams and crabs and crying out in rapture when the God left the walls of the palace. When Totindell marked itself an enemy the Bowfish attacked any boat fleeing from there, sharing the god’s ire at these people. One the day of the God’s death they all screamed out in pain and since the sinking of the Palace they have become reclusive but hostile to the other Northerns, keeping to their nests again but not allowing any near them without attacking. All attempts to welcome the Bowfish to the Northerns new communal system has been rebuffed, so they are kept well enough alone.

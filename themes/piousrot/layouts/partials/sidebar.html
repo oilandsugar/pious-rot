@@ -1,7 +1,6 @@
 {{ $currentSection := (index (split .Path "/") 1)}}
 {{ $currentPage := .Page }}
 <aside>
-    <div class="gael accent medium-margin-bottom">Table of contents</div>
     <ul class="side-menu">
         <li><a class="gael" href="/">Home</a></li>
         {{ range .Site.Sections }}

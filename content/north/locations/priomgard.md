@@ -4,7 +4,7 @@ subtitle = 'Priomgard Elfmoot'
 slug = "priomgard"
 date = 2025-12-19
 draft = false
-weight = 1
+weight = 10
 +++
 
 The original creators of Thiusland were the Elves, who have long since left the physical lands of the continent for the otherworld, but still watch the people and the place they love through liminal places called Elfmoots. For most the Elfmoots are oddities and sacred sites, but for the elf touched they are some of the last places where they can commune with their ancestors. Since the coming of the Gods many of the Elfmoots have been diminished and corrupted by the use of soul magic.

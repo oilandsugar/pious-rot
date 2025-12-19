@@ -1,5 +1,5 @@
 +++
-title = 'Lore and History'
+title = 'Lore and History of the North'
 subtitle = 'Lore and History'
 slug = "history"
 date = 2025-01-09

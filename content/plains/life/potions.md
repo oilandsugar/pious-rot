@@ -1,6 +1,6 @@
 +++
 title = 'Brews and Salves'
-subtitle = "Potion-making in the Plains"
+subtitle = "Potions of the Plains"
 slug = "potions"
 date = 2025-12-19
 draft = false

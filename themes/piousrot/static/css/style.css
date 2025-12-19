@@ -2,14 +2,14 @@
 
 - [] add more food (in process)
 - [] add cairn stats to creatures (in process)  
-- [] finish seasons page (in process)
 - [] update potions effects cairn
 - [] add stuff on intro page north
 - [] add stuff on life in the north page
-- [] fix auto open menu sections
 - [] add a way to access content from home page
 - [] flip pages of mockup when clicking it on home page
 
+- [x] fix auto open menu sections
+- [x] finish north seasons page 
 - [x] style stat block
 - [x] tidy up bestiary
 - [x] add general stuff
@@ -170,6 +170,15 @@ aside h3 {
 
 .side-menu ul {
     list-style:none;
+}
+
+.side-menu a.gael {
+    margin-top:24px;
+    display:inline-block;
+}
+
+.side-menu li:first-child a.gael {
+    margin-top:0;
 }
 
 .side-menu a {
@@ -625,7 +634,7 @@ input[type=submit]:hover {
 }
 
 .home .footer-newsletter {
-    display:none;
+    
 }
 
 .team {
@@ -684,9 +693,13 @@ input[type=submit]:hover {
 }
 
 .logo {
-    max-width:150px;
+    max-width:100px;
     text-align: center;
     margin:0 auto;
+    position: absolute;
+    top:-40px;
+    left:50%;
+    margin-left:-50px;
 }
 
 img {
@@ -883,7 +896,8 @@ td:last-child, th:last-child {
         display:grid;
     }
     .logo {
-        max-width:250px;
+        max-width:150px;
+        margin-left:-75px;
     }
     .list-page {
         display:grid;

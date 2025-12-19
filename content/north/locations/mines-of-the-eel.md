@@ -4,7 +4,7 @@ subtitle = 'Mines of the Eel'
 slug = "mines-of-the-eel"
 date = 2025-01-23
 draft = false
-weight = 2
+weight = 5
 +++
 
 <div class="flavor">
