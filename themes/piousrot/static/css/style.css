@@ -87,6 +87,10 @@ body {
     background-color: var(--b_med);
 }
 
+.home .home {
+    background-color: none;
+}
+
 main, footer {
     padding-top:0;
 }
