@@ -88,8 +88,8 @@ body {
 }
 
 
-html.home body.home {
-    background-color: none;
+.home .home {
+    background-color: transparent;
 }
 
 main, footer {
