@@ -87,7 +87,8 @@ body {
     background-color: var(--b_med);
 }
 
-.home .home {
+
+html.home body.home {
     background-color: none;
 }
 
